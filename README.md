@@ -8,6 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
+to start the application in development mode:
+
+### `docker compose -f docker-compose.dev.yml up --build`
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
